@@ -1,0 +1,20 @@
+# str
+  Value of str:
+      Null.              [property null_str]
+      Empty.
+      Shorter than size.
+      Equal to size.     [property no_padding]
+      Longer than size.  [property no_padding]
+
+# size
+  Value of size:
+      Negative.
+      Zero.
+      Positive.
+
+# padStr
+  Value of padStr:
+      Null.              [if null_str] [single]
+      Empty.             [if null_str] [single]
+      Single character.
+      Multiple chars.    [if no_padding] [single]

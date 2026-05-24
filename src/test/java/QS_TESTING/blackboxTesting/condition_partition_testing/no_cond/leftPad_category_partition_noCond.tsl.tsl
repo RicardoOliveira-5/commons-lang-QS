@@ -1,0 +1,360 @@
+
+Test Case 1  		(Key = 1.1.1.)
+   Value of str    :  Null
+   Value of size   :  Negative
+   Value of padStr :  Null
+
+
+Test Case 2  		(Key = 1.1.2.)
+   Value of str    :  Null
+   Value of size   :  Negative
+   Value of padStr :  Empty
+
+
+Test Case 3  		(Key = 1.1.3.)
+   Value of str    :  Null
+   Value of size   :  Negative
+   Value of padStr :  Single character
+
+
+Test Case 4  		(Key = 1.1.4.)
+   Value of str    :  Null
+   Value of size   :  Negative
+   Value of padStr :  Multiple characters
+
+
+Test Case 5  		(Key = 1.2.1.)
+   Value of str    :  Null
+   Value of size   :  Zero
+   Value of padStr :  Null
+
+
+Test Case 6  		(Key = 1.2.2.)
+   Value of str    :  Null
+   Value of size   :  Zero
+   Value of padStr :  Empty
+
+
+Test Case 7  		(Key = 1.2.3.)
+   Value of str    :  Null
+   Value of size   :  Zero
+   Value of padStr :  Single character
+
+
+Test Case 8  		(Key = 1.2.4.)
+   Value of str    :  Null
+   Value of size   :  Zero
+   Value of padStr :  Multiple characters
+
+
+Test Case 9  		(Key = 1.3.1.)
+   Value of str    :  Null
+   Value of size   :  Positive
+   Value of padStr :  Null
+
+
+Test Case 10 		(Key = 1.3.2.)
+   Value of str    :  Null
+   Value of size   :  Positive
+   Value of padStr :  Empty
+
+
+Test Case 11 		(Key = 1.3.3.)
+   Value of str    :  Null
+   Value of size   :  Positive
+   Value of padStr :  Single character
+
+
+Test Case 12 		(Key = 1.3.4.)
+   Value of str    :  Null
+   Value of size   :  Positive
+   Value of padStr :  Multiple characters
+
+
+Test Case 13 		(Key = 2.1.1.)
+   Value of str    :  Empty
+   Value of size   :  Negative
+   Value of padStr :  Null
+
+
+Test Case 14 		(Key = 2.1.2.)
+   Value of str    :  Empty
+   Value of size   :  Negative
+   Value of padStr :  Empty
+
+
+Test Case 15 		(Key = 2.1.3.)
+   Value of str    :  Empty
+   Value of size   :  Negative
+   Value of padStr :  Single character
+
+
+Test Case 16 		(Key = 2.1.4.)
+   Value of str    :  Empty
+   Value of size   :  Negative
+   Value of padStr :  Multiple characters
+
+
+Test Case 17 		(Key = 2.2.1.)
+   Value of str    :  Empty
+   Value of size   :  Zero
+   Value of padStr :  Null
+
+
+Test Case 18 		(Key = 2.2.2.)
+   Value of str    :  Empty
+   Value of size   :  Zero
+   Value of padStr :  Empty
+
+
+Test Case 19 		(Key = 2.2.3.)
+   Value of str    :  Empty
+   Value of size   :  Zero
+   Value of padStr :  Single character
+
+
+Test Case 20 		(Key = 2.2.4.)
+   Value of str    :  Empty
+   Value of size   :  Zero
+   Value of padStr :  Multiple characters
+
+
+Test Case 21 		(Key = 2.3.1.)
+   Value of str    :  Empty
+   Value of size   :  Positive
+   Value of padStr :  Null
+
+
+Test Case 22 		(Key = 2.3.2.)
+   Value of str    :  Empty
+   Value of size   :  Positive
+   Value of padStr :  Empty
+
+
+Test Case 23 		(Key = 2.3.3.)
+   Value of str    :  Empty
+   Value of size   :  Positive
+   Value of padStr :  Single character
+
+
+Test Case 24 		(Key = 2.3.4.)
+   Value of str    :  Empty
+   Value of size   :  Positive
+   Value of padStr :  Multiple characters
+
+
+Test Case 25 		(Key = 3.1.1.)
+   Value of str    :  Shorter than size
+   Value of size   :  Negative
+   Value of padStr :  Null
+
+
+Test Case 26 		(Key = 3.1.2.)
+   Value of str    :  Shorter than size
+   Value of size   :  Negative
+   Value of padStr :  Empty
+
+
+Test Case 27 		(Key = 3.1.3.)
+   Value of str    :  Shorter than size
+   Value of size   :  Negative
+   Value of padStr :  Single character
+
+
+Test Case 28 		(Key = 3.1.4.)
+   Value of str    :  Shorter than size
+   Value of size   :  Negative
+   Value of padStr :  Multiple characters
+
+
+Test Case 29 		(Key = 3.2.1.)
+   Value of str    :  Shorter than size
+   Value of size   :  Zero
+   Value of padStr :  Null
+
+
+Test Case 30 		(Key = 3.2.2.)
+   Value of str    :  Shorter than size
+   Value of size   :  Zero
+   Value of padStr :  Empty
+
+
+Test Case 31 		(Key = 3.2.3.)
+   Value of str    :  Shorter than size
+   Value of size   :  Zero
+   Value of padStr :  Single character
+
+
+Test Case 32 		(Key = 3.2.4.)
+   Value of str    :  Shorter than size
+   Value of size   :  Zero
+   Value of padStr :  Multiple characters
+
+
+Test Case 33 		(Key = 3.3.1.)
+   Value of str    :  Shorter than size
+   Value of size   :  Positive
+   Value of padStr :  Null
+
+
+Test Case 34 		(Key = 3.3.2.)
+   Value of str    :  Shorter than size
+   Value of size   :  Positive
+   Value of padStr :  Empty
+
+
+Test Case 35 		(Key = 3.3.3.)
+   Value of str    :  Shorter than size
+   Value of size   :  Positive
+   Value of padStr :  Single character
+
+
+Test Case 36 		(Key = 3.3.4.)
+   Value of str    :  Shorter than size
+   Value of size   :  Positive
+   Value of padStr :  Multiple characters
+
+
+Test Case 37 		(Key = 4.1.1.)
+   Value of str    :  Equal to size
+   Value of size   :  Negative
+   Value of padStr :  Null
+
+
+Test Case 38 		(Key = 4.1.2.)
+   Value of str    :  Equal to size
+   Value of size   :  Negative
+   Value of padStr :  Empty
+
+
+Test Case 39 		(Key = 4.1.3.)
+   Value of str    :  Equal to size
+   Value of size   :  Negative
+   Value of padStr :  Single character
+
+
+Test Case 40 		(Key = 4.1.4.)
+   Value of str    :  Equal to size
+   Value of size   :  Negative
+   Value of padStr :  Multiple characters
+
+
+Test Case 41 		(Key = 4.2.1.)
+   Value of str    :  Equal to size
+   Value of size   :  Zero
+   Value of padStr :  Null
+
+
+Test Case 42 		(Key = 4.2.2.)
+   Value of str    :  Equal to size
+   Value of size   :  Zero
+   Value of padStr :  Empty
+
+
+Test Case 43 		(Key = 4.2.3.)
+   Value of str    :  Equal to size
+   Value of size   :  Zero
+   Value of padStr :  Single character
+
+
+Test Case 44 		(Key = 4.2.4.)
+   Value of str    :  Equal to size
+   Value of size   :  Zero
+   Value of padStr :  Multiple characters
+
+
+Test Case 45 		(Key = 4.3.1.)
+   Value of str    :  Equal to size
+   Value of size   :  Positive
+   Value of padStr :  Null
+
+
+Test Case 46 		(Key = 4.3.2.)
+   Value of str    :  Equal to size
+   Value of size   :  Positive
+   Value of padStr :  Empty
+
+
+Test Case 47 		(Key = 4.3.3.)
+   Value of str    :  Equal to size
+   Value of size   :  Positive
+   Value of padStr :  Single character
+
+
+Test Case 48 		(Key = 4.3.4.)
+   Value of str    :  Equal to size
+   Value of size   :  Positive
+   Value of padStr :  Multiple characters
+
+
+Test Case 49 		(Key = 5.1.1.)
+   Value of str    :  Longer than size
+   Value of size   :  Negative
+   Value of padStr :  Null
+
+
+Test Case 50 		(Key = 5.1.2.)
+   Value of str    :  Longer than size
+   Value of size   :  Negative
+   Value of padStr :  Empty
+
+
+Test Case 51 		(Key = 5.1.3.)
+   Value of str    :  Longer than size
+   Value of size   :  Negative
+   Value of padStr :  Single character
+
+
+Test Case 52 		(Key = 5.1.4.)
+   Value of str    :  Longer than size
+   Value of size   :  Negative
+   Value of padStr :  Multiple characters
+
+
+Test Case 53 		(Key = 5.2.1.)
+   Value of str    :  Longer than size
+   Value of size   :  Zero
+   Value of padStr :  Null
+
+
+Test Case 54 		(Key = 5.2.2.)
+   Value of str    :  Longer than size
+   Value of size   :  Zero
+   Value of padStr :  Empty
+
+
+Test Case 55 		(Key = 5.2.3.)
+   Value of str    :  Longer than size
+   Value of size   :  Zero
+   Value of padStr :  Single character
+
+
+Test Case 56 		(Key = 5.2.4.)
+   Value of str    :  Longer than size
+   Value of size   :  Zero
+   Value of padStr :  Multiple characters
+
+
+Test Case 57 		(Key = 5.3.1.)
+   Value of str    :  Longer than size
+   Value of size   :  Positive
+   Value of padStr :  Null
+
+
+Test Case 58 		(Key = 5.3.2.)
+   Value of str    :  Longer than size
+   Value of size   :  Positive
+   Value of padStr :  Empty
+
+
+Test Case 59 		(Key = 5.3.3.)
+   Value of str    :  Longer than size
+   Value of size   :  Positive
+   Value of padStr :  Single character
+
+
+Test Case 60 		(Key = 5.3.4.)
+   Value of str    :  Longer than size
+   Value of size   :  Positive
+   Value of padStr :  Multiple characters
+

@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /*
-WeakECTesting -> Cada classe de equival?ncia deve aparecer pelo menos uma vez.
+WeakECTesting -> Cada classe de equivalencia deve aparecer pelo menos uma vez.
  */
 public class WeakECTesting {
 

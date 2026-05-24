@@ -1,0 +1,18 @@
+# str
+  Value of str:
+      Null.
+      Empty.
+      Shorter than size.
+      Equal to size.
+      Longer than size.
+# size
+  Value of size:
+      Negative.
+      Zero.
+      Positive.
+# padStr
+  Value of padStr:
+      Null.
+      Empty.
+      Single character.
+      Multiple characters.
